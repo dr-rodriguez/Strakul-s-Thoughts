@@ -15,3 +15,4 @@
 # Additional ignores
 _site/
 google*.html
+Gemfile.lock
