@@ -11,3 +11,7 @@
 /.vscode/
 /.idea/
 .liquidrc
+
+# Additional ignores
+_site/
+google*.html

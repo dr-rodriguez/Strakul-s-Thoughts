@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Caliban's War by James S.A. Corey"
 date: 2025-10-29
-img: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654571158i/18142735.jpg
+img: posts/20251029/18142735.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654571158i/18142735.jpg)](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654571158i/18142735.jpg)
+[![](assets/img/posts/20251029/18142735.jpg)](assets/img/posts/20251029/18142735.jpg)
 
 **Caliban's War** is the second book in The Expanse series by James S.A. Corey. This one, and [Leviathan Wakes](https://strakul.blogspot.com/2025/08/book-review-leviathan-wakes-by-james-sa.html), had been the only novels I had read prior to watching all of the TV show. Here is the Goodreads blurb for this second book:
 
