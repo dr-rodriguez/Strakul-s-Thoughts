@@ -2,7 +2,7 @@
 title: Strakul's Thoughts
 description: 'Random thoughts from a book-loving Puerto Rican astronomical data scientist in Baltimore.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/strakul-blog" # the subpath of your site, e.g. /blog
 url: "https://dr-rodriguez.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
